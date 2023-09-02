@@ -1,0 +1,227 @@
+1:Dinospore:nature::0.60:8.08:255:117:79:100:69:no:A small dinosaur that has a symbiotic relationship with a plant.
+2:Floradon:nature::1.21:23.36:255:156:71:123:129:no:A larger, more aggressive dinosaur with a plant growing on its back. It uses the plant to harness energy from sunlight.
+3:Arborex:nature::2.48:94.53:222:233:182:176:186:no:A fully grown dinosaur with a dense forest of plants on its back. It can control the plants and use them as weapons.
+
+4:Emberspark:fire::0.60:8.97:156:77:147:41:87:no:A tiny salamander-like creature with a tail that's constantly ablaze. It is very playful and loves to chase its own fire sparks.
+5:Infernewt:fire::1.21:27.51:74:147:171:154:152:no:This fiery newt has grown, its flames have become more intense and it's learned to harness them in interesting ways. It can now produce a range of fire effects.
+6:Pyrodra:fire::2.38:88.76:166:124:237:149:176:no:The mature stage of this creature is a large dragon wreathed in flames. Its fiery breath can melt solid rock.
+
+7:Ripplefin:water::0.71:11.88:117:84:72:131:33:no:A small fish-like creature that enjoys jumping out of the water to make a big splash. It uses its tail to move quickly in the water.
+8:Waveorca:water::1.52:45.18:54:134:100:213:101:no:This creature is an orca that can create waves to navigate its surroundings. It communicates using a series of complex underwater sounds.
+9:Tsunamigon:water::3.08:178.83:137:183:179:255:90:no:A massive sea creature that has mastered the power of the ocean. It can summon powerful typhoons and is revered as a master of the seas.
+
+10:Breezeling:wind::0.40:3.00:255:28:98:70:125:no:A small bird-like creature with light feathers that allow it to ride the wind with ease. It is friendly and enjoys soaring in the sky.
+11:Galehawk:wind::1.00:14.78:255:0:168:111:219:no:A hawk-like creature that uses wind gusts to increase its speed. It's known for its precision strikes from high altitudes.
+12:Stormeagle:wind:electric:2.08:49.68:233:93:255:83:174:no:A majestic eagle capable of conjuring up stormy winds. It can summon powerful gusts and is considered a ruler of the skies.
+
+13:Lumiworm:light:nature:0.30:1.48:255:127:104:140:75:no:A tiny, glowing worm-like creature that emits a warm, comforting light. It can use its bioluminescence to communicate with others of its kind.
+14:Shimmerwing:light:nature:1.41:29.90:225:233:209:94:108:no:A majestic, butterfly-like creature with wings that shimmer like the night sky. It can manipulate light to create brilliant illusions and navigate the darkness.
+
+15:Slumberbug:dark:nature:0.40:8.04:172:173:125:89:182:no:A small, nocturnal insect with sleep-inducing powers. It can release a cloud of pollen to put enemies to sleep.
+16:Dreamoth:dark:nature:1.10:25.25:112:232:120:255:201:no:A larger, more powerful moth-like creature with wings that resemble a starry night sky. It can control dreams and create powerful illusions.
+
+17:Lithopup:earth::0.60:11.97:192:198:50:206:96:no:A small, playful creature resembling a puppy made of rocks. Its body is sturdy and it loves to playfully tumble down rocky slopes.
+18:Bouldog:earth::1.11:35.67:225:235:85:236:120:no:A dog-like creature made of boulders. Its strong, rock-solid body and unyielding spirit make it a reliable companion.
+
+19:Metalynx:metal::0.71:29.95:69:199:45:183:2:no:A lynx-like creature with a metallic body. It is friendly and its body is incredibly resilient, capable of withstanding high amounts of pressure.
+20:liron:metal::1.61:90.44:136:248:6:205:19:no:A creature with a coat and mane made of a unique metallic alloy. It is stalwart in defending itself and its pride.
+
+21:Shockrat:electric::0.50:6.92:255:47:183:67:161:no:A small rodent with the ability to generate electricity. It is playful and often sparks when excited.
+22:Voltweasel:electric::0.99:25.00:45:17:214:64:218:no:An agile weasel-like creature with greater electric power. It can control electricity with precision, using it for both defense and offense.
+23:Zapbadger:electric::1.67:60.48:0:164:251:169:255:no:A burly badger capable of generating strong electric shocks. It is less friendly but has a powerful sense of determination.
+
+24:Frostfawn:ice:nature:0.71:20.06:200:117:109:101:185:no:A delicate fawn-like creature with fur as white as snow. It can camouflage itself in winter landscapes and has a soothing presence.
+25:Glacierstag:ice:nature:1.69:74.23:211:155:152:112:240:no:This majestic creature's icy antlers are said to sparkle like a winter sunrise.
+
+26:Cindersnout:fire::0.50:9.94:255:175:118:151:116:no:A small pig-like creature that breathes fire. It's friendly and loves playing with fire sparks.
+27:Blazehog:fire:earth:1.09:25.10:210:224:128:196:164:no:A hog-like creature with fiery bristles and earthy tusks. It uses its powers to defend its territory.
+
+28:Lillimp:dark::0.40:5.04:64:82:73:67:117:no:A small imp-like creature that enjoys playing tricks. It's friendly, but its mischievous nature often gets it into trouble.
+29:Shadowgnome:dark:fire:0.91:14.92:128:86:132:120:212:no:A gnome-like creature that manipulates shadow-like bursts of energy. It's less friendly, preferring to lurk in the shadows and avoid interaction.
+30:Demonarch:dark:fire:1.78:59.96:55:213:220:209:255:no:A powerful creature that wields dark-energy. It is capable of controlling forces from an unseen dimension.
+
+31:Glowb:light::0.30:0.50:255:82:115:59:83:no:A small, orb-like creature that emits a comforting light. It's extremely friendly and its gentle glow can calm those around it.
+32:Lanternsprite:light:fire:1.00:19.95:155:133:217:80:115:no:A sprite-like creature that carries a lantern of enchanted fire. It is friendly and its warm light can guide travellers safely through the darkest nights.
+33:Angelux:light:fire:1.61:50.00:209:178:248:142:140:no:A beautiful lantern-bearing creature. It emits a powerful, comforting light that can illuminate even the darkest paths.
+
+34:Shadebat:dark:wind:0.50:2.52:120:38:34:81:208:no:A small bat-like creature that thrives in the dark. It can manipulate shadows and gusts of wind to disorient its prey.
+35:Gloomwing:dark:wind:1.11:6.00:20:58:126:0:225:no:Adept at manipulating shadows and wind. Its wings are said to eclipse the moon.
+36:Nightdrifter:dark:wind:1.80:15.04:0:56:135:237:255:no:This majestic creature is the embodiment of the silent night. It can summon gusts of chilling wind and wrap itself in shadows.
+
+37:Buzzmite:electric::0.30:1.51:9:60:186:114:195:no:A tiny insect-like creature that generates a static charge. Its antennae glow with electric energy.
+38:Shockroach:electric::0.90:3.53:104:97:255:95:162:no:A large and meanacing winged-insect. It can create powerful electric shocks and its carapace shines with stored energy.
+
+39:Steelskitter:metal::0.40:8.00:40:201:39:200:6:no:A small, beetle-like creature made of a metallic substance. Its tough exoskeleton is highly resistant to damage.
+40:Ironmandible:metal::1.00:25.36:156:255:78:255:35:no:This creature boasts powerful, iron jaws. Its bites are known to leave dents in metal.
+
+41:Lavamari:fire:water:0.88:19.68:149:153:174:177:128:no:A squid-like creature that can survive in extreme depths and temperatures. It can superheat the water around it, causing it to steam and boil.
+42:Magmollusc:fire:water:1.31:35.62:156:216:159:167:162:no:This creature's energy manipulation abilities are unparallelled. It can spray blasts of lava for both propulsion and protection.
+
+43:Lumifin:light:water:0.80:18.06:214:103:151:185:94:no:A small, fish-like creature that emits a soft, bioluminescent glow. It can use its light to communicate with others and attract prey.
+44:Solakoi:light:water:2.10:90.64:109:190:210:142:92:no:A majestic, koi-like creature with a radiant, shimmering body. It can channel the power of light to create powerful beams of energy.
+
+45:Sproutling:nature::0.30:0.79:212:182:109:135:119:no:A tiny creature that resembles a budding plant. It is full of life and always seeking sunlight.
+46:Leafdrake:nature::0.99:22.06:193:249:101:173:176:no:A creature whose body has sprouted wings that resemble large leaves. It can glide from tree to tree with ease.
+
+47:Graveldillo:earth::0.81:20.04:156:184:7:188:62:no:A small, armored armadillo creature with a tough, rocky shell. It can curl into a ball and roll at high speeds to escape danger.
+48:Boulderillo:earth::1.51:54.60:87:236:69:253:186:no:It has boulder-like shell and can cause tremors and landslides by slamming into the ground.
+
+49:Rumbleox:earth::1.80:198.21:255:205:16:243:44:no:A large, ox-like creature that is as sturdy as the earth itself. It can cause the ground to shake with a single stomp of its hooves.
+
+50:Galehorn:wind::1.20:60.41:97:49:38:71:255:no:A creature with large, wind-generating horns. It can summon gusts and gales at will.
+
+51:Pebblite:earth::0.49:11.73:255:145:24:136:51:no:A small, round creature made of pebbles and rocks. It can quickly burrow underground to avoid danger.
+52:Rockorb:earth::1.03:40.41:228:233:42:215:105:no:A larger, more powerful creature made of rocks and boulders. It can cause small earthquakes by slamming into the ground.
+53:Terragolem:earth::1.81:109.03:181:255:43:255:125:no:A massive, imposing creature made of stone and earth. It can summon rockslides and create powerful barriers to protect itself.
+
+54:Sparkcoil:electric:metal:0.70:24.78:133:147:144:171:130:no:A metallic, snake-like creature that has an electric charge running through its body.
+55:Magnetail:electric:metal:1.49:59.06:162:130:111:173:107:no:A large, metallic serpent that can release powerful electrical currents to manipulate nearby metal objects.
+
+56:Leafop:nature:wind:0.49:1.99:255:127:87:90:143:no:A small, rabbit-like creature with leaves growing out of its body. It is known for its agility and ability to jump high.
+57:Vinestrider:nature:wind:1.20:19.91:93:255:117:121:255:no:A kanaroo-like creature with blossoming vines wrapping around its legs, giving it great jumping power.
+
+58:Toxifang:toxic::0.90:22.89:133:39:5:165:94:no:A small, snake-like creature with venomous fangs. Its bite can cause severe illness and disorientation in its victims.
+59:Venomcoil:toxic::1.47:44.88:80:70:0:205:102:no:It can constrict and immobilize its prey with a deadly venom before delivering a fatal bite.
+60:Corrodeconda:toxic::2.10:89.07:62:152:80:255:123:no:Its bite can dissolve even the toughest materials, and it can spit venomous projectiles.
+
+61:Spikid:metal:toxic:0.80:30.07:184:75:0:147:33:no:A small, porcupine-like creature with metallic spikes. It can launch its quills, which are coated with a toxic substance.
+62:Needillo:metal:toxic:1.40:73.46:183:160:20:240:55:no:This matured Quillkid now resembles an armadillo, with a body covered in steel spikes. It can roll into a ball for protection.
+63:Viruking:metal:toxic:2.01:198.49:94:136:0:255:0:no:A regal, hedgehog-like creature with razor-sharp, toxic spikes. It can roll at high speeds, causing massive damage.
+
+64:Grassprit:nature::0.30:5.03:255:133:56:99:94:no:A small, fairy-like creature that can commune with plants. Sentient vines will intervene to protect it from harm.
+65:Florwisp:nature::0.61:14.19:255:175:64:122:112:no:This creature often befriends and cares for powerful, intelligent plants.
+66:Blossomdancer:nature::1.01:31.97:206:201:115:221:195:no:An elegant creature that can summon massive vines and even create healing barriers with its powers.
+
+67:Coilvine:nature::1.21:29.88:255:102:82:161:69:no:A serpentine creature that looks like a vine. It can absorb water to strengthen its body.
+68:Aquafleur:nature:water:1.99:70.81:172:169:164:162:84:no:Its vine body has grown stronger and can store more water. It can control water flow with ease.
+69:Hydravine:nature:water:2.50:96.95:81:224:214:226:170:no:A massive serpent covered in leaves that glisten with water. It lives for centuries as it requires no external nutrients.
+
+70:Napgrass:nature::10.00:198.33:123:187:70:132:200:no:A small, sloth-like creature that moves slowly and sleeps often. Its fur is covered in a moss-like growth.
+71:Dozeoflage:dark:nature:1.49:90.32:58:208:42:166:245:no:This large, moss-covered creature that can blend in with its forest surroundings.
+
+72:Emberwhisp:fire:wind:0.60:9.97:0:62:229:58:166:no:A small, wisp-like creature with a flickering flame at its core. It can create gusts of hot air to deter predators.
+73:Infernowisp:fire:wind:1.31:27.89:189:136:251:135:255:no:A larger wisp-like creature with a blazing inferno at its core. It can create fire tornadoes to engulf its foes.
+
+74:Chilp:ice::0.30:2.02:255:0:95:36:177:no:A small, round bird-like creature made of frost and ice. It is quite friendly and enjoys snowy environments.
+75:Frostflit:ice::1.01:15.08:221:22:107:35:245:no:Its wings are made of sharp ice feathers and it can cause blizzards.
+76:Aurorwing:ice:wind:1.97:39.78:176:76:236:127:201:no:This majestic bird can control winter storms and is highly respected in frosty habitats.
+
+77:Shellin:water::0.40:6.00:255:88:85:184:79:no:A small, cheerful turtle-like creature that loves to play in shallow water. Its shell is a bright, shiny blue.
+78:Tsutoise:water::1.19:59.30:163:138:132:225:98:no:It's shell is a deep blue color. It can pressurize the inside of its shell to control the flow of water.
+79:Turnami:water::2.52:302.25:96:212:157:243:62:no:This massive turtle-like creature can create and control tidal waves.
+
+80:Ottice:ice:water:0.61:14.83:197:76:155:107:180:no:An adorable otter-like creature made of ice. It loves sliding on frozen rivers and is quite friendly.
+81:Ferrost:ice:water:1.38:45.46:185:62:208:79:201:no:This playful creature can skillfully traverse ice covered lakes.
+
+82:Shocktopus:electric:water:1.70:64.67:0:108:155:181:158:no:An aquatic creature with a highly evolved brain. Its neurons create powerful electric currents.
+
+83:Globble:toxic::0.60:14.80:119:72:23:221:131:no:A small blob-like creature that leaves a trail of sticky substance. It can absorb anything it touches and is remarkably durable.
+84:Sludgeon:toxic::1.20:50.01:0:93:77:231:147:no:It engulf enemies and digest them over time. Its body is highly toxic.
+85:Gloozard:toxic::1.78:100.59:3:131:64:255:200:no:This massive blob is a living hazard. Its body can corrode anything it touches.
+
+86:Starfrost:ice:light:1.01:9.96:254:118:99:193:174:no:A crystal-like creature that embodies the cold beauty of a starry winter night. It can manipulate ice and light to create stunning visual effects.
+
+87:Gustkin:wind::0.60:10.00:1:74:133:78:183:no:A small, playful creature that resembles a bird-shaped cloud. It's quick and elusive, often causing small gusts and whirlwinds as it moves.
+88:Tempestrel:wind::2.79:78.82:0:20:104:99:255:no:This creature is a living storm. It's respected and feared for its ability to summon tempests.
+
+89:Sandgrub:earth::0.30:10.08:255:127:16:108:48:no:A small, friendly earth creature that loves to burrow in sand. Its soft body changes color to match its surroundings.
+90:Duneworm:earth::1.19:80.86:189:220:22:199:81:no:This creature is a skilled burrower. Its segmented body can withstand the harsh desert environment.
+91:Terraviathan:earth::3.53:584.80:138:255:40:249:201:no:A massive earth-dwelling behemoth. It can move through solid ground as if it were water.
+
+92:Tinbling:metal::0.31:49.49:255:104:59:121:38:no:A small, friendly creature made of a soft, tin-like metal. It can alter its shape slightly to roll around at high speeds.
+93:Metmonk:metal::1.49:297.93:238:133:137:210:70:no:This creature resembles a humanoid statue. It's made of a stronger metal and is known for its serene demeanor and strong will.
+94:Ironite:metal:light:2.50:808.08:197:200:248:255:78:no:This creature is like a living suit of armor. It's incredibly resilient and a formidable opponent in battles.
+
+95:Cogmite:metal::0.40:59.82:153:126:28:152:15:no:A tiny creature that looks like a mechanical insect. It's made from a variety of gears and can fix small machinery with surprising skill.
+96:Geargon:metal::1.32:199.19:38:172:50:205:46:no:This dragon-like creature is made entirely of interlocking gears. It's known for its intelligence and mechanical prowess.
+97:Clockwyrm:metal::3.20:699.33:100:255:100:219:72:no:This massive serpent is a marvel of mechanical engineering. Its intricate clockwork mechanisms are a wonder to behold.
+
+98:Shardling:metal:ice:0.51:89.60:255:87:86:91:86:no:A small creature made of a unique blend of metal and ice. It can withstand incredibly cold temperatures and has a body as hard as steel.
+99:Frostforged:metal:ice:1.97:396.41:237:119:130:123:159:no:Is like a living statue of frost-covered metal. It can manipulate both ice and metal with equal skill.
+100:Frigilith:metal:ice:3.78:891.24:163:177:214:209:165:no:This towering creature is made of a metal so cold it burns to the touch. Its mere presence can lower the temperature of its surroundings.
+
+101:Emberfox:fire::0.80:25.16:0:136:137:142:118:no:A fox-like creature with a tail that burns like a flame. It's friendly but can be a bit mischievous.
+102:Blazehound:fire::1.49:69.73:6:158:255:96:193:no:This creature is like a hound with a mane of fire. It's loyal to its allies and fierce in battle.
+
+103:Frostkit:ice::0.40:4.00:250:16:129:88:248:no:A small creature that resembles a snowy fox kit. It thrives in cold environments and can freeze the moisture in the air to create small snowstorms.
+104:Icehowl:ice::1.22:39.78:231:63:195:76:255:no:This creature is like a wolf made of ice. It can summon blizzards with its fearsome howl.
+
+105:Sparkmite:electric:light:0.30:1.50:198:66:164:208:151:no:A tiny creature that can store and release electrical energy. It glows with a soft light and can emit bright flashes to startle enemies.
+106:Boltbeacon:electric:light:1.01:35.25:203:128:255:255:156:no:This creature combines the power of electricity and light. It can generate thunderbolts and shine brightly to illuminate dark places.
+
+107:Gooeyguppy:water::0.50:10.06:73:117:121:202:162:no:A small aquatic creature that's squishy to the touch. It thrives in freshwater environments.
+108:Slimeshark:water::2.54:90.09:79:199:224:255:164:no:This creature takes the form of a shark made of slime. It can squeeze through tight spaces and its bite is surprisingly strong.
+
+109:Pixibloom:nature:light:0.60:4.94:255:113:163:155:75:no:A small, friendly creature that resembles a blooming flower under the moonlight. Its petals glow with a calming light.
+110:Stargrove:nature:light:1.81:69.73:201:125:157:198:156:no:This creature is like a tree that sparkles with light. It's known for its ability to calm other creatures.
+
+111:Twistail:wind:electric:0.70:24.27:255:6:242:103:249:no:A swift, cat-like creature with control over both wind and electricity. It can create small gusts and shock enemies with its electrically charged tail.
+
+112:Toxigas:toxic:wind:0.59:0.10:255:37:45:113:87:no:A floating, semi-transparent creature that appears to be made of toxic gas. It can change its shape and density at will.
+113:Venomist:toxic:wind:1.48:0.50:255:15:73:171:174:no:It has learned to concentrate its toxic gases into venomous clouds. Its form becomes denser and more ominous as it grows.
+114:Smlogue:toxic:wind:2.80:1.01:52:16:255:249:255:no:This a creature to be feared. It can create a dense, poisonous fog that engulfs and incapacitates its enemies.
+
+115:Cactish:nature:metal:0.80:25.13:215:183:86:160:76:no:A cute cactus-like creature that forms buds to store excess water.
+116:Cacactish:nature:metal:0.80:24.62:176:255:104:237:120:no:Though often mistaken for a pair of Cactish, it is a unique species. Each head shares a single brain but has a distinct personality.
+
+117:Zapadeer:electric:ice:1.80:100.55:255:20:222:79:255:no:A reindeer-like creature with a body that sparkles with electricity. It has a cool fur that glows with a soft light in the dark.
+118:Voltantler:electric:ice:2.48:302.72:130:0:225:25:255:no:Its antlers are like lightning rods and its body is covered with frosty fur that sparkles under the moonlight. It guides wanderers amid snowstorms.
+
+119:Auroracoon:light::0.50:11.87:255:103:138:124:52:no:A small raccoon-like creature that can absorb and emit light. It uses its bioluminescent tail to communicate with others and navigate in the dark.
+120:Bearora:light::1.00:30.06:255:153:167:65:71:no:This creature has a strong connection to light. Its body can emit powerful beams of light and create dazzling displays to confuse predators.
+121:Prismapanda:light::1.50:68.97:201:101:255:172:90:no:A powerful, panda-like creature with a mastery of light. Its body can refract and manipulate light in a multitude of ways, from creating illusions to focusing beams of intense energy.
+
+122:Gloomowl:dark:wind:0.99:15.10:38:103:125:87:249:no:A dark-feathered bird that is most active during twilight. It's known for its swift and silent flight.
+123:Nightgale:dark:wind:2.18:44.98:6:135:120:251:217:no:This calm bird is a creature of the night. Its dark feathers shimmer under the moonlight and its silent flight is a sight to behold.
+
+124:Stoneshell:earth:water:0.50:25.17:255:110:53:140:98:no:"A small creature resembling a snail, but with a shell made of rock. It is typically found near rivers or other bodies of water."
+125:Geoshell:earth:water:1.48:201.57:186:214:98:238:111:no:"Its shell has grown into a small mountain and it has developed the ability to control water currents."
+126:Mountshell:earth:water:2.96:792.99:91:241:118:240:40:no:"Its massive shell resembles a mountain and even has a a ravine."
+
+127:GloomShroom:nature:toxic:0.81:14.89:251:120:74:130:142:no:"A small, mushroom-like creature that emits toxic spores. Despite its somewhat ominous appearance, it's known for its resilience and determination."
+128:ToxiFungi:nature:toxic:1.78:75.43:175:107:108:255:216:no:"It can control its spores with such precision that it can create intricate patterns in the air."
+
+129:Cobbolem:earth:metal:2.46:603.76:167:255:73:253:33:no:"A solitary creature composed of various stones and metals. Cobbolem is known for its immense resilience and strength. Although it's not typically aggressive, it will defend its territory with ferocity."
+
+130:Lifewing:fire:light:3.01:39.80:205:155:232:255:115:no:A rare creature madeof radiant fire. It is known for its incredible resilience, capable of reviving itself even after being defeated.
+
+131:Frostlich:ice:dark:1.39:54.56:68:74:163:58:255:no:A skeletal, ice-wreathed creature with mastery over both ice and darkness. It can summon powerful ice storms and manipulate shadows to create an aura of chilling dread.
+
+132:Medusnake:earth:toxic:2.56:139.27:104:138:39:222:76:no:A multi-headed creature with a stony gaze. Its stare is said to be able to turn anything into stone.
+
+133:Lizore:earth:light:0.70:30.14:255:105:73:152:56:no:A lizard-like creature with the ability to control both earth and light. It can create small rock formations and emit bright beams of light to disorient enemies.
+134:Crystalisk:earth:light:1.50:69.59:255:208:83:183:71:no:A creature mastery over both earth and light. It can create large rock formations and summon powerful beams of light to control its territory.
+135:Mirrordon:earth:light:2.07:139.89:211:255:133:255:82:no:A massive, lizard-like creature with ultimate control over earth and light. Its body is covered in crystalline structures, which it can use to create powerful rock and light-based attacks.
+
+136:Specterwing:dark:wind:2.33:44.88:0:118:64:69:255:yes:A large winged entity with glowing red eyes that flies silently through the night.
+
+137:Mythifoot:earth:nature:3.47:500.95:228:255:152:206:172:yes:A reclusive and powerful creature. It's covered in thick fur, has a strong build, and is rumored to inhabit dense forests, leaving behind only large footprints.
+
+138:Cyrptofin:water::8.11:995.82:226:166:154:255:129:yes:A large aquatic creature known for its elongated neck and mysterious nature. Sightings are rare, making this creature a stuff of legends.
+
+139:Mercuris:water:ice:1.41:60.55:189:92:155:186:233:yes:Mercuris is a serene creature with a crystal-blue sheen. It possesses the power to manipulate water and ice. Its intelligence is said to surpass most other creatures.
+
+140:Venustar:light:wind:1.51:55.17:231:160:255:229:248:yes:Venustar is a graceful creature that glows with a soft light. Its charm is said to be irresistible, and its flight leaves a trail of golden sparkles.
+
+141:Marsara:fire:dark:1.81:69.50:132:151:183:255:236:yes:Marsara is a fiery creature with dark undertones. Its passionate nature is often seen as aggressive, but its heart burns for justice.
+
+142:Jupiterra:nature:electric:2.09:79.93:202:196:228:141:212:yes:Jupiterra is a robust creature that emits an electric energy from its body. It has a strong connection with nature and is seen as a protector of forests.
+
+143:Saturnyx:dark:metal:1.99:89.60:150:199:97:150:133:yes:Saturnyx is a dark creature with a metallic sheen. It possesses a power that is both destructive and regenerative. Its presence often signifies the end of one era and the beginning of another.
+
+144:Urania:wind:earth:1.88:70.39:137:164:215:170:255:yes:Urania is a dynamic creature that controls the winds. Its strong, earthy constitution makes it a formidable opponent.
+
+145:Neptunea:water:nature:1.70:65.35:153:225:189:255:172:yes:Neptunea is a serene aquatic creature. Its melodies are said to resonate with the deep sea, and it has the ability to predict upcoming events.
+
+146:Plutoron:dark:ice:1.85:75.24:226:153:143:68:213:yes:Plutoron is a dark, icy creature. Its gaze is said to penetrate time, and it is often seen guarding places of importance.
+
+147:Lunaria:light:dark:1.61:50.24:151:154:204:239:164:yes:Lunaria is a radiant creature that shines with a moon-like glow. Its elegant leaps and bounds are reminiscent of a ballet dancer. The crescent mark on its forehead is said to emit healing energy.
+
+148:Masquerose:earth:nature:2.00:85.19:255:255:49:208:129:yes:An elusive creature that is always cloaked in shadows. It often appears at critical moments to aid other creatures in need.
+
+149:Moracle:ice:light:1.81:89.61:255:63:214:188:222:yes:Moracle is an elegant, legendary cat believed to control the heavens. Its graceful movements are accompanied by a trail of frost, and it can emit blinding light to disorient those with dark intentions. Moracle is known for its serene demeanor and formidable power.
+
+150:Harvinger:fire:dark:1.61:84.57:25:176:198:67:218:yes:Harvinger is a legendary cat believed to control the underworld with a fiery spirit and an aggressive demeanor. It can unleash devastating fire attacks while shrouding itself in darkness to strike fear into its enemies. Harvinger is notorious for its relentless hunger and unyielding ferocity.
+
+151:Pygram:electric:light:0.40:8.06:255:189:255:119:219:yes:A small, adorable creature resembling a mix between a lizard and a computer chip. It has ultimate control over electric and light elements. Pygram can process vast amounts of data and manipulate digital environments, making it a formidable force in the digital world and a valuable ally in modern society.
+
