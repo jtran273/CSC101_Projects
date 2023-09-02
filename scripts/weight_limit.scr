@@ -1,0 +1,5 @@
+load
+filter-by-weight-gt:0
+filter-by-weight-lt:5
+report-avg-weight
+report-count

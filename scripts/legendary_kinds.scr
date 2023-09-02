@@ -1,0 +1,13 @@
+load
+filter-legendary
+report-percent-kind:dark
+report-percent-kind:earth
+report-percent-kind:electric
+report-percent-kind:fire
+report-percent-kind:ice
+report-percent-kind:light
+report-percent-kind:metal
+report-percent-kind:nature
+report-percent-kind:toxic
+report-percent-kind:water
+report-percent-kind:wind

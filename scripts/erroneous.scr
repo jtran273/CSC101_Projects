@@ -1,0 +1,14 @@
+load:load:load:load:load
+
+filter-by-anything:abc:123:"hello"::::::::
+
+report-count
+
+
+load
+
+filter-by-attr-lt:friendliness:onehundred
+filter-by-attr-gt:friendliness:onehundred
+filter-by-attr:friendliness:onehundred
+
+report-count

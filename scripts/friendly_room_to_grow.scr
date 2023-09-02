@@ -1,0 +1,7 @@
+load
+filter-by-attr-gt:friendliness:250
+filter-by-attr-lt:resilience:100
+filter-by-attr-lt:courage:100
+filter-by-attr-lt:willpower:100
+filter-by-attr-lt:determination:100
+report-creatures

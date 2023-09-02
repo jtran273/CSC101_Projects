@@ -1,0 +1,4 @@
+load
+filter-by-kind:fire
+filter-by-attr-gt:determination:254
+report-creatures
